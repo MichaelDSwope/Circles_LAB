@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\bin\Debug\net6.0\Circle_LAB.exe
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\bin\Debug\net6.0\Circle_LAB.deps.json
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\bin\Debug\net6.0\Circle_LAB.runtimeconfig.json
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\bin\Debug\net6.0\Circle_LAB.dll
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\bin\Debug\net6.0\Circle_LAB.pdb
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\Circle_LAB.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\Circle_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\Circle_LAB.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\Circle_LAB.AssemblyInfo.cs
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\Circle_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\Circle_LAB.dll
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\refint\Circle_LAB.dll
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\Circle_LAB.pdb
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\Circle_LAB.genruntimeconfig.cache
+C:\Users\Digit\source\repos\Learn_to_code\LearnToCode\Circle_LAB\obj\Debug\net6.0\ref\Circle_LAB.dll
